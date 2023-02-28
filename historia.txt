@@ -1,3 +1,10 @@
 esta es mi historia 
 me amo
+<<<<<<< HEAD
 voy a hablar de mi vida
+=======
+
+tuvo un sobrina llamada emma 
+jejeje
+jiji
+>>>>>>> cabecera
