@@ -1,12 +1,6 @@
-
-body{
-    color: deeppink;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-=======
 body
 {
-    color: #ecacd9;
+    color: brown;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -47,5 +41,4 @@ body
 #post
 {
     padding: 1em;
->>>>>>> cabecera
 }
